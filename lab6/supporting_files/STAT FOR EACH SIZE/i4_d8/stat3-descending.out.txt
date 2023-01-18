@@ -1,0 +1,5 @@
+Number of instructions executed = 386
+Number of cycles taken = 16014
+Number of Data Hazards = 184
+Number of Wrong Branch Paths = 2911
+Speed of processor = 0.02410391

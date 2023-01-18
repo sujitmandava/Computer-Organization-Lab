@@ -1,0 +1,4 @@
+Number of instructions executed = 6
+Number of cycles taken = 6
+Time/Clock cycles taken by processor = 30
+Speed of processor = 0.2
